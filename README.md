@@ -7,7 +7,7 @@ Inpsiration for the code and approach for LDA and NMF was found in this article:
 
 A very similar approach is shown in the Scikit Learn tutorial: https://scikit-learn.org/stable/auto_examples/applications/plot_topics_extraction_with_nmf_lda.html.
 
-I was very intrigued by the topics that were found by the algorithms. For instance, the following topic, found by LDA, clearly shows a Longhorn football games were a recurring topic:
+I was very intrigued by the topics that were found by the algorithms. For instance, the following topic, found by LDA, clearly shows that University of Texas at Austin (Longhorns) football games were a recurring topic:
 
 #### Topic 9: 
 #### game play free click season longhorn team yard offer texas player save start updated point gift football visit big special
