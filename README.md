@@ -5,7 +5,7 @@ The Enron Dataset was downloaded from https://archive.ics.uci.edu/ml/datasets/ba
 
 Inpsiration for the code and approach for LDA and NMF was found in this article: https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730.
 
-Very a very similar approach is shown in the Scikit Learn tutorial: https://scikit-learn.org/stable/auto_examples/applications/plot_topics_extraction_with_nmf_lda.html.
+A very similar approach is shown in the Scikit Learn tutorial: https://scikit-learn.org/stable/auto_examples/applications/plot_topics_extraction_with_nmf_lda.html.
 
 I was very intrigued by the topics that were found by the algorithms. For instance, the following topic, found by LDA, clearly shows a Longhorn football games were a recurring topic:
 
